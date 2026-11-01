@@ -26,7 +26,7 @@ logo on it as well, which helps tie it together.
 2. As much as I praised the side panel, I do think it's a bit too big. I think the image could be smaller and it could
 be moved over slightly, since it currently makes the pages look a bit small.
 
-Adam Williams
+# Adam Williams
 #https://adjwilli.github.io/
 
 ## The good
